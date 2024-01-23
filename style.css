@@ -1,0 +1,203 @@
+#florist {
+    width: 450px;
+    padding: 30px;
+}
+#b1{
+    width: 200px;
+    padding: 30px;
+}
+#plant3{
+    width: 200px;
+    padding: 30px;
+}
+#b5{
+    width: 200px;
+    padding: 30px;
+}
+.grouped{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.pa2 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.imgnp{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-bottom: 80px;
+}
+.heading{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: darkcyan;
+    padding-bottom: 80px;
+    padding-top: 30px;
+}
+.navbar{
+   align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #2f3e46;
+    
+    
+       
+}
+body{
+    background-color: #cad2c5;
+    font-family: 'Playfair Display', serif;
+}
+a{
+    padding: 30px;
+    color: #84a986; 
+    
+    
+     
+}
+
+
+#b2{
+    width: 267px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-left: 40px;
+    
+}
+#b4{
+    width: 300px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-left: 40px;
+}
+#b3{
+    width: 300px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-left: 40px;
+}
+.gp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.parab{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.top1{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   padding: 20px;
+   
+   
+}
+.botl{
+    align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  
+    
+}
+.plantsp{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+.img{
+    width: 300px;
+}
+a:hover{
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    
+}
+h1{
+    border-bottom: solid black;
+}
+
+
+#home{
+    margin-right: auto;
+}
+
+
+
+.flower {
+   display:flex;
+    justify-content:center;
+   align-items: center;
+   padding-bottom: 60px;
+
+}
+#flowers {
+    width:500px ;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width:425px){
+    .imgnp {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .navbar {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .grouped {
+        display: flex;
+        flex-direction: column;
+    }
+   .top1 {
+    display: flex;
+    flex-direction: column;
+   }
+   .botl {
+    display: flex;
+    flex-direction: column;
+   }
+
+   .flower {
+    display: flex;
+    flex-direction: column;
+    width:90% ;
+   }
+  
+    }
+    
+
+
+
+
+
+
+
